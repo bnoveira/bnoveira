@@ -9,6 +9,7 @@ Aprendizado de máquina e inteligência artificial;
 Análise de dados;
 Ciência de dados;
 Empreendedorismo.
+:)
 
 ----
 
@@ -23,3 +24,4 @@ Machine learning and artificial intelligence;
 Data analysis;
 Data science;
 Entrepreneurship.
+:)
